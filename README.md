@@ -6,5 +6,8 @@ Getting the name, ID, and index number of a USB camera/webcam in windows 10 usin
 # Usage
 Unity 2021.3.27f1
 ### 1. Import to Unity Assets/Plugins/x86_64
-
+![image](https://github.com/Ferrarie/DirectShowCameraEnum/blob/main/Texture/Dll%20Setting.png)
 ### 2. C# Code
+![image](https://github.com/Ferrarie/DirectShowCameraEnum/blob/main/Texture/code%20sample.png)
+### 3. Debug Result
+![image](https://github.com/Ferrarie/DirectShowCameraEnum/blob/main/Texture/DebugResult.png)
